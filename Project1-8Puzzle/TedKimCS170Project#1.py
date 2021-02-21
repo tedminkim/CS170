@@ -162,16 +162,8 @@ def moveRight(movingRight, parentNode):
                 useQ.append(parentNode.eightPuzzle.puzzle)
 
 
-
-
-
-
-
-
-
-
-
-
+#deepcopy used from Python's copy library
+#Link to Python 3.9.2 documentation: https://docs.python.org/3/contents.html
 def expand(parentNode):
     global useQ
 
