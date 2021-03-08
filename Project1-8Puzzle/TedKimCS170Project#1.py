@@ -161,6 +161,7 @@ def moveRight(movingRight, parentNode):
                 i[blankTracker + 1] = 0
                 useQ.append(parentNode.eightPuzzle.puzzle)
 
+
 #deepcopy used from Python's copy library
 #Link to Python 3.9.2 documentation: https://docs.python.org/3/contents.html
 def expand(parentNode):
