@@ -1,0 +1,324 @@
+On level 84 I added feature 50 to current set
+
+On the 85th level of the search tree
+Considering adding the 3rd feature
+Accuracy: 0.768
+Considering adding the 6th feature
+Accuracy: 0.754
+Considering adding the 25th feature
+Accuracy: 0.768
+Considering adding the 26th feature
+Accuracy: 0.764
+Considering adding the 35th feature
+Accuracy: 0.766
+Considering adding the 43th feature
+Accuracy: 0.764
+Considering adding the 46th feature
+Accuracy: 0.76
+Considering adding the 55th feature
+Accuracy: 0.764
+Considering adding the 56th feature
+Accuracy: 0.756
+Considering adding the 62th feature
+Accuracy: 0.762
+Considering adding the 64th feature
+Accuracy: 0.77
+Considering adding the 65th feature
+Accuracy: 0.772
+Considering adding the 70th feature
+Accuracy: 0.76
+Considering adding the 90th feature
+Accuracy: 0.768
+Considering adding the 92th feature
+Accuracy: 0.764
+Considering adding the 95th feature
+Accuracy: 0.78
+On level 85 I added feature 95 to current set
+
+On the 86th level of the search tree
+Considering adding the 3rd feature
+Accuracy: 0.768
+Considering adding the 6th feature
+Accuracy: 0.762
+Considering adding the 25th feature
+Accuracy: 0.772
+Considering adding the 26th feature
+Accuracy: 0.772
+Considering adding the 35th feature
+Accuracy: 0.776
+Considering adding the 43th feature
+Accuracy: 0.764
+Considering adding the 46th feature
+Accuracy: 0.768
+Considering adding the 55th feature
+Accuracy: 0.76
+Considering adding the 56th feature
+Accuracy: 0.762
+Considering adding the 62th feature
+Accuracy: 0.77
+Considering adding the 64th feature
+Accuracy: 0.772
+Considering adding the 65th feature
+Accuracy: 0.778
+Considering adding the 70th feature
+Accuracy: 0.766
+Considering adding the 90th feature
+Accuracy: 0.77
+Considering adding the 92th feature
+Accuracy: 0.766
+On level 86 I added feature 65 to current set
+
+On the 87th level of the search tree
+Considering adding the 3rd feature
+Accuracy: 0.766
+Considering adding the 6th feature
+Accuracy: 0.774
+Considering adding the 25th feature
+Accuracy: 0.77
+Considering adding the 26th feature
+Accuracy: 0.774
+Considering adding the 35th feature
+Accuracy: 0.764
+Considering adding the 43th feature
+Accuracy: 0.758
+Considering adding the 46th feature
+Accuracy: 0.762
+Considering adding the 55th feature
+Accuracy: 0.768
+Considering adding the 56th feature
+Accuracy: 0.764
+Considering adding the 62th feature
+Accuracy: 0.778
+Considering adding the 64th feature
+Accuracy: 0.762
+Considering adding the 70th feature
+Accuracy: 0.76
+Considering adding the 90th feature
+Accuracy: 0.772
+Considering adding the 92th feature
+Accuracy: 0.768
+On level 87 I added feature 62 to current set
+
+On the 88th level of the search tree
+Considering adding the 3rd feature
+Accuracy: 0.766
+Considering adding the 6th feature
+Accuracy: 0.772
+Considering adding the 25th feature
+Accuracy: 0.764
+Considering adding the 26th feature
+Accuracy: 0.77
+Considering adding the 35th feature
+Accuracy: 0.77
+Considering adding the 43th feature
+Accuracy: 0.764
+Considering adding the 46th feature
+Accuracy: 0.766
+Considering adding the 55th feature
+Accuracy: 0.768
+Considering adding the 56th feature
+Accuracy: 0.764
+Considering adding the 64th feature
+Accuracy: 0.764
+Considering adding the 70th feature
+Accuracy: 0.768
+Considering adding the 90th feature
+Accuracy: 0.766
+Considering adding the 92th feature
+Accuracy: 0.77
+On level 88 I added feature 6 to current set
+
+On the 89th level of the search tree
+Considering adding the 3rd feature
+Accuracy: 0.766
+Considering adding the 25th feature
+Accuracy: 0.768
+Considering adding the 26th feature
+Accuracy: 0.766
+Considering adding the 35th feature
+Accuracy: 0.778
+Considering adding the 43th feature
+Accuracy: 0.766
+Considering adding the 46th feature
+Accuracy: 0.768
+Considering adding the 55th feature
+Accuracy: 0.784
+Considering adding the 56th feature
+Accuracy: 0.77
+Considering adding the 64th feature
+Accuracy: 0.758
+Considering adding the 70th feature
+Accuracy: 0.748
+Considering adding the 90th feature
+Accuracy: 0.766
+Considering adding the 92th feature
+Accuracy: 0.752
+On level 89 I added feature 55 to current set
+
+On the 90th level of the search tree
+Considering adding the 3rd feature
+Accuracy: 0.774
+Considering adding the 25th feature
+Accuracy: 0.77
+Considering adding the 26th feature
+Accuracy: 0.766
+Considering adding the 35th feature
+Accuracy: 0.774
+Considering adding the 43th feature
+Accuracy: 0.772
+Considering adding the 46th feature
+Accuracy: 0.768
+Considering adding the 56th feature
+Accuracy: 0.78
+Considering adding the 64th feature
+Accuracy: 0.764
+Considering adding the 70th feature
+Accuracy: 0.76
+Considering adding the 90th feature
+Accuracy: 0.772
+Considering adding the 92th feature
+Accuracy: 0.752
+On level 90 I added feature 56 to current set
+
+On the 91th level of the search tree
+Considering adding the 3rd feature
+Accuracy: 0.766
+Considering adding the 25th feature
+Accuracy: 0.768
+Considering adding the 26th feature
+Accuracy: 0.772
+Considering adding the 35th feature
+Accuracy: 0.776
+Considering adding the 43th feature
+Accuracy: 0.778
+Considering adding the 46th feature
+Accuracy: 0.762
+Considering adding the 64th feature
+Accuracy: 0.758
+Considering adding the 70th feature
+Accuracy: 0.768
+Considering adding the 90th feature
+Accuracy: 0.766
+Considering adding the 92th feature
+Accuracy: 0.75
+On level 91 I added feature 43 to current set
+
+On the 92th level of the search tree
+Considering adding the 3rd feature
+Accuracy: 0.77
+Considering adding the 25th feature
+Accuracy: 0.766
+Considering adding the 26th feature
+Accuracy: 0.764
+Considering adding the 35th feature
+Accuracy: 0.762
+Considering adding the 46th feature
+Accuracy: 0.764
+Considering adding the 64th feature
+Accuracy: 0.76
+Considering adding the 70th feature
+Accuracy: 0.762
+Considering adding the 90th feature
+Accuracy: 0.768
+Considering adding the 92th feature
+Accuracy: 0.756
+On level 92 I added feature 3 to current set
+
+On the 93th level of the search tree
+Considering adding the 25th feature
+Accuracy: 0.766
+Considering adding the 26th feature
+Accuracy: 0.754
+Considering adding the 35th feature
+Accuracy: 0.776
+Considering adding the 46th feature
+Accuracy: 0.754
+Considering adding the 64th feature
+Accuracy: 0.76
+Considering adding the 70th feature
+Accuracy: 0.754
+Considering adding the 90th feature
+Accuracy: 0.766
+Considering adding the 92th feature
+Accuracy: 0.746
+On level 93 I added feature 35 to current set
+
+On the 94th level of the search tree
+Considering adding the 25th feature
+Accuracy: 0.772
+Considering adding the 26th feature
+Accuracy: 0.76
+Considering adding the 46th feature
+Accuracy: 0.76
+Considering adding the 64th feature
+Accuracy: 0.758
+Considering adding the 70th feature
+Accuracy: 0.754
+Considering adding the 90th feature
+Accuracy: 0.772
+Considering adding the 92th feature
+Accuracy: 0.76
+On level 94 I added feature 25 to current set
+
+On the 95th level of the search tree
+Considering adding the 26th feature
+Accuracy: 0.766
+Considering adding the 46th feature
+Accuracy: 0.764
+Considering adding the 64th feature
+Accuracy: 0.764
+Considering adding the 70th feature
+Accuracy: 0.75
+Considering adding the 90th feature
+Accuracy: 0.762
+Considering adding the 92th feature
+Accuracy: 0.754
+On level 95 I added feature 26 to current set
+
+On the 96th level of the search tree
+Considering adding the 46th feature
+Accuracy: 0.752
+Considering adding the 64th feature
+Accuracy: 0.762
+Considering adding the 70th feature
+Accuracy: 0.744
+Considering adding the 90th feature
+Accuracy: 0.76
+Considering adding the 92th feature
+Accuracy: 0.738
+On level 96 I added feature 64 to current set
+
+On the 97th level of the search tree
+Considering adding the 46th feature
+Accuracy: 0.736
+Considering adding the 70th feature
+Accuracy: 0.744
+Considering adding the 90th feature
+Accuracy: 0.762
+Considering adding the 92th feature
+Accuracy: 0.746
+On level 97 I added feature 90 to current set
+
+On the 98th level of the search tree
+Considering adding the 46th feature
+Accuracy: 0.736
+Considering adding the 70th feature
+Accuracy: 0.754
+Considering adding the 92th feature
+Accuracy: 0.74
+On level 98 I added feature 70 to current set
+
+On the 99th level of the search tree
+Considering adding the 46th feature
+Accuracy: 0.72
+Considering adding the 92th feature
+Accuracy: 0.726
+On level 99 I added feature 92 to current set
+
+On the 100th level of the search tree
+Considering adding the 46th feature
+Accuracy: 0.708
+On level 100 I added feature 46 to current set
+
+The best accuracy is 0.966
+It had features [78, 28]
